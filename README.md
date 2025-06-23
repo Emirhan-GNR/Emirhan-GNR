@@ -19,15 +19,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emirhan-GNR&show_icons=true&theme=default&hide=issues&hide_border=true" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Emirhan-GNR&show_icons=true&theme=dark&hide=issues&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Emirhan-GNR&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Emirhan-GNR&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhan-GNR&layout=compact&hide_border=true" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhan-GNR&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
