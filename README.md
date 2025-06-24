@@ -1,5 +1,5 @@
 <h1 align="center">Emirhan Güner</h1>
-<h3 align="center">AI/ML Developer in the Making | Software Engineering Student</h3>
+<h3 align="center">Aspiring AI/ML Developer | Software Engineering Student</h3>
 
 ---
 
@@ -59,10 +59,3 @@ I'm Emirhan — a Software Engineering student from Istanbul, Turkey, actively d
 
 - 🏫 **Işık University**, Istanbul  
   B.Sc. in Software Engineering (2023 – ?)
-
----
-
-### 📬 Contact
-
-- [📧 eg.emirhanguner@gmail.com](mailto:eg.emirhanguner@gmail.com)  
-- [🔗 LinkedIn – Emirhan Güner](https://www.linkedin.com/in/emirhanguner)
