@@ -1,5 +1,5 @@
 <h1 align="center">Emirhan Güner</h1>
-<h3 align="center">Aspiring AI/ML Developer | Software Engineering Student</h3>
+<h3 align="center">AI/ML Developer in the Making | Software Engineering Student</h3>
 
 ---
 
@@ -12,34 +12,57 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🚀 Tools & Tech
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-### 👋 About Me
+### 🧠 Who Am I?
 
-Hi, I’m Emirhan — a passionate software engineering student from Istanbul, Turkey.  
-I'm currently focused on developing my skills in **Python** and **Java**, and actively completing the **CS50P** course by Harvard University.
+I'm Emirhan — a Software Engineering student from Istanbul, Turkey, actively developing my skills to become a future **AI/ML Developer**.
 
-I use this GitHub account to share my **mini projects**, **coursework exercises**, and my general **learning journey** in the world of software and AI/ML.
+---
+
+### 🎯 What I’m Focusing On
+
+- 📘 Deepening my knowledge in **Java** and **Python**
+- 🧠 Completing **Harvard's CS50P** (Introduction to Programming with Python)
+- 🔐 Working on my **mini projects**
+- 📝 Documenting my journey through code and structured learning notes
+
+---
+
+### 📂 What I Share on This GitHub
+- 📁 Mini-projects  
+- 📄 Learning notes & Study progress  
+- 📊 Real-world applications of theory
+
+---
+
+### 🚧 Currently Building
+
+- 🧠 YouTube Comment Analyzer  
+  Extracting sentiment and insights from YouTube comments using Python NLP techniques.
+
+- 🔐 GNR Encoder  
+  A multi-layer symbol-based encryption tool with dynamic key switching logic.
 
 ---
 
 ### 🎓 Education
 
-- 🎓 **Işık University**, Istanbul, Turkey  
-  Software Engineering Student
+- 🏫 **Işık University**, Istanbul  
+  B.Sc. in Software Engineering (2023 – ?)
 
 ---
 
-### 📫 Contact Me
+### 📬 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/emirhanguner)
-- 📧 eg.emirhanguner@gmail.com
+- [📧 eg.emirhanguner@gmail.com](mailto:eg.emirhanguner@gmail.com)  
+- [🔗 LinkedIn – Emirhan Güner](https://www.linkedin.com/in/emirhanguner)
