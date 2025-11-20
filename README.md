@@ -1,5 +1,5 @@
 <h1 align="center">Emirhan Güner</h1>
-<h3 align="center">Aspiring AI/ML Developer | Software Engineering Student</h3>
+<h3 align="center">Aspiring Backend Developer | Software Engineering Student</h3>
 
 ---
 
@@ -12,50 +12,31 @@
 
 ---
 
-### 🚀 Tools & Tech
+### 🧠 About Me
+
+Hi, I'm Emirhan, a Software Engineering student from Istanbul, Turkey.  
+I'm currently focusing on **backend development** and enjoy understanding how systems work behind the scenes.
+
+---
+
+### 📚 What I’m Learning
+
+- Strengthening my skills in **Java** and **object-oriented programming**
+- Practicing **data structures** and problem solving
+- Building a foundation in **SQL** and basic database concepts
+- Getting comfortable with **Git**, **GitHub** and real-world development workflows
+
+---
+
+### 🛠 Tech & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
-
-### 🧠 Who Am I?
-
-I'm Emirhan — a Software Engineering student from Istanbul, Turkey, actively developing my skills to become a future **AI/ML Developer**.
-
----
-
-### 🎯 What I’m Focusing On
-
-- 📘 Deepening my knowledge in **Java** and **Python**
-- 🧠 Completing **Harvard's CS50P** (Introduction to Programming with Python)
-- 🔐 Working on my **mini projects**
-- 📝 Documenting my journey through code and structured learning notes
-
----
-
-### 📂 What I Share on This GitHub
-- 📁 Mini-projects  
-- 📄 Learning notes & Study progress  
-- 📊 Real-world applications of theory
-
----
-
-### 🚧 Currently Building
-
-- 🧠 YouTube Comment Analyzer  
-  Extracting sentiment and insights from YouTube comments using Python NLP techniques.
-
-- 🔐 GNR Encoder  
-  A multi-layer symbol-based encryption tool with dynamic key switching logic.
-
----
-
-### 🎓 Education
-
-- 🏫 **Işık University**, Istanbul  
-  B.Sc. in Software Engineering (2023 – ?)
