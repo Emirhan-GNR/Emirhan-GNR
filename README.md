@@ -24,7 +24,7 @@ I'm currently focusing on **backend development** and enjoy understanding how sy
 - Strengthening my skills in **Java** and **object oriented programming**.
 - Practicing **data structures** and problem solving.
 - Building a foundation in **SQL** and basic database concepts.
-- Getting comfortable with **Git**, **GitHub** and real world development workflow.
+- Getting comfortable with **Git**, **GitHub** and real world development workflows.
 
 ---
 
