@@ -1,5 +1,5 @@
 <h1 align="center">Emirhan Güner</h1>
-<h3 align="center">Aspiring Backend Developer | Software Engineering Student</h3>
+<h3 align="center">Backend Development Enthusiast | Software Engineering Student</h3>
 
 ---
 
@@ -14,18 +14,19 @@
 
 ## 🧠 About Me
 
-I'm Emirhan, a Software Engineering student from Istanbul, Turkey.  
-Currently focusing on **backend development**, especially **Java**, and trying to understand how systems work behind the scenes.  
-I enjoy learning through small console projects and improving step by step.
+I'm Emirhan, a Software Engineering student from Istanbul.  
+I’m currently focused on **backend development**, especially **Java**, and I enjoy building small but meaningful console-based projects that teach me structure, logic, and clean design.
+
+I like understanding how systems behave behind the scenes — how data flows, how components interact, and how software grows from small ideas into real products.
 
 ---
 
 ## 📚 What I'm Learning
 
-- Strengthening my skills in **Java** and **Object-Oriented Programming**  
-- Practicing **Data Structures & Algorithms**  
-- Building a foundation in **SQL**  
-- Getting comfortable with **Git**, **GitHub**, and real-world workflows  
+- Improving my skills in **Java** and core **OOP principles**  
+- Practicing **Data Structures & Algorithms** to build strong fundamentals  
+- Learning **SQL** for database design and queries  
+- Working with **Git/GitHub** and version control workflows
 
 ---
 
@@ -48,3 +49,5 @@ I enjoy learning through small console projects and improving step by step.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+---
