@@ -6,8 +6,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Emirhan-GNR?label=Followers&logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Emirhan-GNR?affiliations=OWNER&style=for-the-badge&logo=github" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Emirhan-GNR&show_icons=true&theme=dark&hide=issues&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhan-GNR&layout=compact&langs_count=6&theme=dark&hide_border=true" />
 </p>
 
 ---
