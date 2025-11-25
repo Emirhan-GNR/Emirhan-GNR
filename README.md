@@ -6,8 +6,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emirhan-GNR&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhan-GNR&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://streak-stats.demolab.com?user=Emirhan-GNR&theme=tokyonight&hide_border=true" width="80%"/>
 </p>
 
 ---
