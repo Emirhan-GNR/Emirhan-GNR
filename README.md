@@ -1,5 +1,5 @@
 <h1 align="center">Emirhan Güner</h1>
-<h3 align="center">Backend Development Enthusiast | Software Engineering Student</h3>
+<h3 align="center">Software Engineering Student | Backend Development</h3>
 
 ---
 
