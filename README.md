@@ -6,8 +6,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/generate/generate/master/docs/_media/github-stats-dark.png" width="45%">
-  <img src="https://raw.githubusercontent.com/generate/generate/master/docs/_media/github-langs-dark.png" width="45%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Emirhan-GNR&show_icons=true&theme=dark&hide_border=true" width="45%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Emirhan-GNR&layout=compact&theme=dark&hide_border=true" width="45%">
 </p>
 
 ---
