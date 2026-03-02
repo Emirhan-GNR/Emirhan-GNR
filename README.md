@@ -53,8 +53,3 @@ I am deeply passionate about **Java Backend Development** and building robust sy
 * **Quality Assurance:** Modern Test Management with **Qase** (For Validation Course)
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirhanguner&show_icons=true&theme=tokyonight" alt="Emirhan's Stats" />
-</p>
