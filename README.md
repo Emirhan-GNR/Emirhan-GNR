@@ -6,7 +6,7 @@
 ## 🧠 About Me
 
 I'm Emirhan, a Software Engineering student from Istanbul.  
-I’m currently focused on **backend development**, especially **Java** and **SQL**. I enjoy building small but meaningful projects that teach me structure, logic, and clean design.
+I’m currently focused on **backend development**. I enjoy building small but meaningful projects that teach me structure, logic, and clean design.
 
 I like understanding how systems behave behind the scenes, how data flows, how components interact, and how software grows from small ideas into real products.
 
