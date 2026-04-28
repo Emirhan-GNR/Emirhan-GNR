@@ -6,7 +6,7 @@
 ## 🧠 About Me
 
 I'm Emirhan, a Software Engineering student from Istanbul.  
-I’m currently focused on **backend development**, especially **Java** and **Spring Boot**. I enjoy building small but meaningful projects that teach me structure, logic, and clean design.
+I’m currently focused on **backend development**, especially **Java** and **SQL**. I enjoy building small but meaningful projects that teach me structure, logic, and clean design.
 
 I like understanding how systems behave behind the scenes, how data flows, how components interact, and how software grows from small ideas into real products.
 
@@ -15,9 +15,7 @@ I like understanding how systems behave behind the scenes, how data flows, how c
 ## 📚 What I'm Learning
 
 - Currently updating and deepening my core **Java** knowledge and **OOP** expertise
-- Mastering **Spring Boot** for modern backend development and RESTful APIs
 - Learning **SQL** and **Database Design** with a focus on MySQL
-- Exploring **Docker** for containerization and streamlining development workflows
 - Practicing **Data Structures & Algorithms** to build strong problem-solving fundamentals
 - Working with **Git/GitHub** for advanced version control and collaboration
 
