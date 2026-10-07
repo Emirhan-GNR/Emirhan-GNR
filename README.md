@@ -1,5 +1,5 @@
 <h1 align="center">Emirhan Güner</h1>
-<h3 align="center">Software Engineering Student · Considering Cybersecurity</h3>
+<h3 align="center">Software Engineering Student · Cybersecurity</h3>
 
 ## About
 
